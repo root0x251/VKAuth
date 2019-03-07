@@ -1,0 +1,6 @@
+framework module Pods_VKAuthTests {
+  umbrella header "Pods-VKAuthTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
